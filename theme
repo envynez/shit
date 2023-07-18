@@ -1,0 +1,50 @@
+/**
+ * @name osamav2
+ * @authorosama
+ * @version 2.0.0
+ * @description dark
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/1025850142357733437/1067899121681301615/a1998095858_5.jpg');
+  --background-image-blur: 1px;
+  --background-image-size: auto;
+  --background-image-position: center;
+  --popout-image: url('https://cdn.discordapp.com/attachments/1025850142357733437/1067899121681301615/a1998095858_5.jpg');
+  --popout-image-blur: 1px;
+  --popout-image-size: auto;
+  --popout-image-position: center;
+  --overlay-image: url('https://cdn.discordapp.com/attachments/1025850142357733437/1067899121681301615/a1998095858_5.jpg');
+  --overlay-image-blur: 1px;
+  --overlay-image-size: auto;
+  --overlay-image-position: center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/1025850142357733437/1067899121681301615/a1998095858_5.jpg');
+  --home-button-size: auto;
+  --home-button-position: center;
+  --serverlist-brightness: 0.52;
+  --left-brightness: 0.54;
+  --middle-brightness: 0.54;
+  --right-brightness: 0;
+  --overlay-brightness: 0.74;
+  --gradient-primary: 255,255,255;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 289deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Ubuntu;
+  --window-padding: 1.5px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
